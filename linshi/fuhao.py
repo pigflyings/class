@@ -1,0 +1,6 @@
+n=pow(2,8)
+print("2^8",n)
+m=abs(-14151)
+print("|-14151",m)
+c=round(7/2)
+print("7/2",c)
